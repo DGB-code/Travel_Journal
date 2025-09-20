@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "https://scrimba.com/links/travel-journal-japan-image-url",
+            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_Ōwakudani_20211202.jpg/960px-View_of_Mount_Fuji_from_Ōwakudani_20211202.jpg",
             alt: "Mount Fuji"
         },
         title: "Mount Fuji",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "https://scrimba.com/links/travel-journal-australia-image-url",
+            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sydney_Opera_House_from_Circular_Quay%2C_2023%2C_10.jpg/960px-Sydney_Opera_House_from_Circular_Quay%2C_2023%2C_10.jpg",
             alt: "Sydney Opera House"
         },
         title: "Sydney Opera House",
@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "https://scrimba.com/links/travel-journal-norway-image-url",
+            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geirangerfjord_.jpg/960px-Geirangerfjord_.jpg",
             alt: "Geirangerfjord"
         },
         title: "Geirangerfjord",
